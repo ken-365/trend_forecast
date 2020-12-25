@@ -1,1 +1,2 @@
-# trend_forecastThis is report for stock trend forecast for UChi capstone
+# trend_forecast
+This is report for stock trend forecast for UChi capstone
